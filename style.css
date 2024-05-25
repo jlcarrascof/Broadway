@@ -26,6 +26,7 @@ nav li {
 
 main {
   text-align: center;
+  position: relative;
 }
 
 main h1 {
